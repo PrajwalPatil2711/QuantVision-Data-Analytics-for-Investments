@@ -1,4 +1,4 @@
-**Overview:**
+****Overview:****
 
 This project focuses on tracking stock indices and implementing forward testing methodologies to analyze investment strategies in the US stock market. The main goal is to evaluate the performance of an index-tracking portfolio by comparing historical and real-time data.
 
