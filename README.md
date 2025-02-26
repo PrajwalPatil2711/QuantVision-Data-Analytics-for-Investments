@@ -1,9 +1,9 @@
-****Overview:****
+#Overview:
 
 This project focuses on tracking stock indices and implementing forward testing methodologies to analyze investment strategies in the US stock market. The main goal is to evaluate the performance of an index-tracking portfolio by comparing historical and real-time data.
 
 
-**Features:**
+##Features:
 
 Index Replication: Tracks and replicates major stock indices.
 
@@ -14,7 +14,7 @@ Data Analysis & Visualization: Uses Python libraries (Pandas, NumPy, Matplotlib,
 Performance Metrics: Calculates risk-adjusted returns, Sharpe ratio, drawdowns, and other key indicators.
 
 
-**Technologies Used:**
+##Technologies Used:
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
